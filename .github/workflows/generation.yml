@@ -38,8 +38,8 @@ jobs:
         run: Rscript Currency.R  
  
       - name: Loading process - Output
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-            name: Output_test
+            name: Output file
             path: Output/Currency.csv
             retention-days: 2
