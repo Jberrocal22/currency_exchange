@@ -42,4 +42,4 @@ jobs:
         with:
             name: Output file
             path: Output/Currency.csv
-            retention-days: 2
+            retention-days: 15
