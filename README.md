@@ -7,7 +7,7 @@ Webscrapping process integrated via R script to automate results with the power 
 - R script is running a webscraping process with a loop to extract information from 2019 up to 2024.
 - The operative system performing the github actions is an Ubuntu machine. Please go to Workflow -> generation.yml for further details.
 - Output file is called Currency.csv
-- The retention days of the artifact is 2 days.
+- The retention days of the artifact is 15 days.
 
 Any feedback will be glady received as part of the enhancement of this script.
 
